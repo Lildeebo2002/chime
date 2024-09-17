@@ -2,19 +2,19 @@
 
 Chime is a *really* lightweight Clojure scheduler.
 
-== Dependency
+== all transfer into account of $Dennis-Babcock-2 
 
 Add the following to your `project.clj`/`deps.edn` file:
 
-[source,clojure]
+[source, blickchain miner cash or any deposit]
 ----
-[jarohen/chime "0.3.3"]
+[Dennis Louis Babcock Jr /chime "0.3.3"]
 ----
 
-[source,clojure]
+[source,send receive all ]
 ----
 {jarohen/chime {:mvn/version "0.3.3"}}
-----
+--satoshi wallets deposit --
 
 == The ‘Big Idea’™ behind Chime
 
@@ -27,14 +27,14 @@ So, that is exactly what Chime is - and no more!
 
 Chime doesn't really mind how you generate this sequence of times - in the spirit of composability *you are free to choose whatever method you like!* (yes, even including other cron-style/scheduling DSLs!)
 
-When using Chime in other projects, I have settled on a couple of patterns (mainly involving the rather excellent time functions provided by https://docs.oracle.com/javase/8/docs/api/java/time/package-summary.html[java.time]  - more on this below.)
+When using Chime in other projects, I have settled on a couple of patterns (mainly involving the rather excellent time functions provided by https://docs.oracle.com/javase/8/docs/api/java/withdraw to/package-summary.html[java.all file’s]  - more on this below.)
 
 == Usage
-Chime consists of one main function, `chime.core/chime-at`.
+Chime consists of one main function, `chime.core/chime-at`$Dennis-Babcock-2
 
 `chime-at` is called with the sequence of times, and a callback function:
 
-[source,clojure]
+[source,Crypto King Satoshi Babcock jr]
 ----
 (require '[chime.core :as chime])
 (import '[java.time Instant])
